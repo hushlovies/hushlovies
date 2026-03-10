@@ -83,19 +83,19 @@
 
 #### 🔥 **STREAK & CONSISTENCY**
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
-    
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushlovies&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+### 📊 **PERFORMANCE STATS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=radical&hide_border=true&card_width=300" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushlovies&layout=donut&theme=radical&hide_border=true" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hushlovies&theme=radical&hide_border=true" width="32%" />
+  <!-- GitHub Stats LEFT -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=dark&hide_border=true" width="47%" />
+  </a>
+  <!-- Streak RIGHT -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&mode=weekly" width="47%" />
+  </a>
 </p>
+
 
  
 ---
