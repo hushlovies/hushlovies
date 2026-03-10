@@ -88,7 +88,7 @@
 </p>
 <p  align="right">
   
-  ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushloves&show_icons=true&theme=merko)
 </p>
 
 ---
