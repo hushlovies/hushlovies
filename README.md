@@ -81,10 +81,14 @@
 
 
 #### 🔥 **STREAK & CONSISTENCY**
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
-  </a>
+ 
+</p>
+<p  align="right">
+  
+  ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </p>
 
 ---
@@ -97,5 +101,8 @@
 
 
 ---
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-⭐ **"Code, Learn, and Build — every line counts."**
+<p align="center">
+  
+ ⭐ **"Code, Learn, and Build — every line counts."**
+</p>
+
