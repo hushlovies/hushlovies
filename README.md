@@ -81,16 +81,12 @@
 
 
 #### 🔥 **STREAK & CONSISTENCY**
-<p align="left">
+
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
  
-</p>
-<p  align="right">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushloves&show_icons=true&theme=merko)
-</p>
 
+  ![](https://raw.githubusercontent.com/username=hushlovies/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ---
 
 ### 🎓 Current Education
