@@ -10,9 +10,6 @@
 </h3>
 
 ---
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=41B300&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" /></a>
-</p>
 
 ### 🧠 About Me
 - 🔭 Currently improving my **Java backend development** skills  
@@ -23,8 +20,13 @@
 
 ---
 
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hushlovies/hushlovies/output/github-contribution-grid-snake.svg">
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### 🛠️ Technical Skills
 
@@ -88,7 +90,7 @@
   <!-- Streak LEFT -->
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hushlovies&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
   <!-- Top Langs RIGHT -->
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hushlovies&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hushlovies&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 
