@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Kaira Canaria</h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=41B300&width=435&lines=Hi+There!+👋;+I'm+Kaira+Canaria!" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">👩‍💻 Junior Java Developer | Backend Enthusiast | Banking Tech Aspirant</h3>
 <h3 align="center">
   
@@ -21,9 +23,8 @@
 
 ---
 
-<picture>
+
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hushlovies/hushlovies/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 🛠️ Technical Skills
 
@@ -85,9 +86,7 @@
 
 <p align="center">
   <!-- GitHub Stats LEFT -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=dark&hide_border=true" width="47%" />
-  </a>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hushlovies&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
   <!-- Streak RIGHT -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hushlovies&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
