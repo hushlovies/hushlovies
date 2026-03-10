@@ -51,7 +51,7 @@
 #### 🏆 **PERFORMANCE STATS**
 
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hushlovies&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hushlovies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 #### 🔥 **STREAK & CONSISTENCY**
