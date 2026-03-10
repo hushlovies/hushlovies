@@ -21,7 +21,8 @@
 ---
 
 <div align="center">
-   #### My contributions
+
+  #### 🔥 My contributions
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hushlovies/hushlovies/output/github-contribution-grid-snake.svg" />
   
