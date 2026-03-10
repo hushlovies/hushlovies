@@ -37,7 +37,18 @@
 
 ### 📊 GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+#### 🏆 **PERFORMANCE STATS**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=dark" />
+</p>
+
+#### 🔥 **STREAK & CONSISTENCY**
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
