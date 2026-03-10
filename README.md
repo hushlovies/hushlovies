@@ -85,9 +85,9 @@
 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+    
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushloves&show_icons=true&theme=merko)
  
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=merko) 
 ---
 
 ### 🎓 Current Education
