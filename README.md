@@ -25,24 +25,46 @@
 
 ### 🛠️ Technical Skills
 
-#### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
-#### 🗃️ Databases
+#### 💻 Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?logo=bootstrap&logoColor=white)
+
+#### 🗃️ Databases & Big Data
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Apache%20Spark](https://img.shields.io/badge/Spark-%23E25A17.svg?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2366CCFF.svg?logo=hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apachekafka&logoColor=white)
 
 #### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%23005595.svg?logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=intellijidea&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-%23E44B23.svg?logo=checkmarx&logoColor=white)
+![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
+
+#### 🚀 Other Technologies
+![REST%20API](https://img.shields.io/badge/REST%20API-0C84F8.svg?logo=restapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
+
+#### 💼 Methodologies
+![Agile](https://img.shields.io/badge/Agile-0078D4.svg?logo=agilealliance&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-%237B68EE.svg?logo=lean&logoColor=white)
 
 ---
 
@@ -66,7 +88,7 @@
 ### 🎓 Current Education
 🏫 **IPSSI Paris**  
 🎯 Master’s in **Data & AI**  
-💼 Apprenticeship at **Carrefour – Data Analyst**
+💼 Apprenticeship at **BPCE SI – RAD developper**
 
 ---
 
