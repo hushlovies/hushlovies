@@ -80,13 +80,14 @@
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hushlovies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 #### 🔥 **STREAK & CONSISTENCY**
 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
  
 
-  ![](https://raw.githubusercontent.com/username=hushlovies/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=merko) 
 ---
 
 ### 🎓 Current Education
@@ -99,6 +100,6 @@
 ---
 <p align="center">
   
- ⭐ **"Code, Learn, and Build — every line counts."**
+ ⭐ "Code, Learn, and Build — every line counts."**
 </p>
 
