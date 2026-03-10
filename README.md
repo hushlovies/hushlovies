@@ -86,7 +86,17 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hushlovies&theme=dark&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" />
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hushlovies)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushlovies&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hushlovies&show_icons=true&theme=radical&hide_border=true&card_width=300" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushlovies&layout=donut&theme=radical&hide_border=true" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hushlovies&theme=radical&hide_border=true" width="32%" />
+</p>
+
  
 ---
 
