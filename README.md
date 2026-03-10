@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Kaira Canaria</h1>
 <h3 align="center">👩‍💻 Junior Java Developer | Backend Enthusiast | Banking Tech Aspirant</h3>
-<p align="center">
+<h3 align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/KairaCanaria)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-</p>
+</h3>
 
 ---
 <p align="center">
