@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&color=41B300&duration=4000&lines=Hi+There!+👋;+I'm+Kaira+Canaria!;" />
 </h1>
-<h3 align="center">👩‍💻 Junior Java Developer | Backend Enthusiast | Banking Tech Aspirant</h3>
+<h3 align="center">👩‍💻 Junior Fullstack Developer | Backend Enthusiast </h3>
 <h3 align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaira-canaria)
@@ -12,8 +12,8 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently improving my **Java backend development** skills  
-- 🌱 Learning **Spring Boot**, **microservices**, and **RESTful APIs**  
+- 🔭 Currently strengthening my **software development skills**, with a focus on **Java and backend development**
+- 🌱 Refreshing and expanding my knowledge in **Java, Spring Boot, React, AI/ML, data, and cloud technologies**
 - 🎯 Aspiring to work in the **banking or fintech sector**  
 - 💬 Ask me about **Java**, **Maven**, **SQL**, and **Spring Framework**  
 - ⚡ Fun fact: I love building practical tools that simplify daily life  
